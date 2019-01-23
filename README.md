@@ -1,7 +1,7 @@
 # ds-capstones
 Capstone presentations about data science.
 
-## Supervised learning
+## Mid-term
 - [Detecting_Implicit_Bias_in_Traffic_Stops](https://github.com/maf5509/Detecting_Implicit_Bias_in_Traffic_Stops) by Mark Ferguson.
 
 - [Lemons: Predicting whether a Vehicle will be kicked back to the auction](https://github.com/ExtraLime/lemons) by Will Morgan. 
@@ -10,7 +10,7 @@ Capstone presentations about data science.
 
 - [Breast cancer survivor models](https://github.com/richardgorham1/ds-supervised-learning-capstone-lite) by Rich Gohram.
 
-## Unsupervisd learning
+## Final
 
 - [Math lectures](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
 
