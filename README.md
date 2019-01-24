@@ -8,7 +8,9 @@ Capstone presentations about data science.
 
 - [Predicting the success of cyber-related terrorist attacks](https://github.com/Begecky/Thinkful_Materials/tree/master/Unit_3_Capstone) by Rebecca Green.
 
-- [Breast cancer survivor models](https://github.com/richardgorham1/ds-supervised-learning-capstone-lite) by Rich Gohram.
+- [Breast cancer survivor models](https://github.com/richardgorham1/ds-supervised-learning-capstone-lite) by Rich Gohram.    
+
+- [Predicting Disruptive Children (Including visualization of PCA on binary variables)](https://github.com/conditg/predicting-disruption) by Greg Condit
 
 ## Final
 
