@@ -16,3 +16,5 @@ Presentations about data science.
 
 
 ## Final bootcamp
+ - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
+ 
