@@ -14,7 +14,11 @@ Presentations about data science.
 
 - [Predicting Disruptive Children (Including visualization of PCA on binary variables)](https://github.com/conditg/predicting-disruption) by Greg Condit
 
+## Unsupervised Learning Capstone Report
 
-## Final bootcamp
+## Final
  - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
- 
+
+- [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb)
+— Emile Badran's final project for Thinkful Data Science project.
+
