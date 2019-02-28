@@ -1,7 +1,7 @@
-# ds-capstones
+# Portfolio peices
 Presentations about data science.
 
-## Mid-term bootcamp capstones
+## Mid-term project
 - [Detecting_Implicit_Bias_in_Traffic_Stops](https://github.com/maf5509/Detecting_Implicit_Bias_in_Traffic_Stops) by Mark Ferguson.
 
 - [Lemons: Predicting whether a Vehicle will be kicked back to the auction](https://github.com/ExtraLime/lemons) by Will Morgan. 
@@ -14,11 +14,13 @@ Presentations about data science.
 
 - [Predicting Disruptive Children (Including visualization of PCA on binary variables)](https://github.com/conditg/predicting-disruption) by Greg Condit
 
-## Unsupervised Learning Capstone Report
+## Unsupervised learning report
 
-## Final
+## Final capstone
  - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
 
 - [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb)
 — Emile Badran's final project for Thinkful Data Science project.
 
+## Coursework repositories
+- Please fork this repo, add link and make a pull request to add your repo here.
