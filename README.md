@@ -15,6 +15,7 @@ Presentations about data science.
 - [Predicting Disruptive Children (Including visualization of PCA on binary variables)](https://github.com/conditg/predicting-disruption) by Greg Condit
 
 ## Unsupervised learning report
+- Please fork this repo, add link and make a pull request to add your repo here.
 
 ## Final capstone
  - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
