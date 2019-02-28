@@ -1,4 +1,4 @@
-# Portfolio peices
+# Portfolio examples
 Presentations about data science.
 
 ## Mid-term project
