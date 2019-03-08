@@ -6,7 +6,7 @@ Presentations about data science.
 
 - [Lemons: Predicting whether a Vehicle will be kicked back to the auction](https://github.com/ExtraLime/lemons) by Will Morgan. 
 
-- [Math lectures Part 1](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
+
 
 - [Predicting the success of cyber-related terrorist attacks](https://github.com/Begecky/Thinkful_Materials/tree/master/Unit_3_Capstone) by Rebecca Green.
 
@@ -15,7 +15,8 @@ Presentations about data science.
 - [Predicting Disruptive Children (Including visualization of PCA on binary variables)](https://github.com/conditg/predicting-disruption) by Greg Condit
 
 ## Unsupervised learning report
-- Please fork this repo, add link and make a pull request to add your repo here.
+
+- [Math lectures Part 1](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
 
 ## Final capstone
 
