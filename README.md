@@ -18,11 +18,18 @@ Presentations about data science.
 - Please fork this repo, add link and make a pull request to add your repo here.
 
 ## Final capstone
- - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
+
+- [Cover to Cover: A (not so) Novel Approach to Book Reccommendations](https://www.thinkful.com/project-hunt/projects/cover-to-cover-a-not-so-novel-approach-to-book-reccommendations-4230) by Mark Espina. The saying goes "Don't Judge a book by it's cover" But Why? Anyone who shops at a local bookstore is definitely paying attention to the covers. And from personal experience, it is a key determinant on whether I end up purchasing a book. First, I will discuss the pros and cons of applying Convolutional Neural Nets to Image Classification, attempting to predict genre labels. In the second half, I will be exploring the application of feature extraction with similarity models as the basis for an Image Content-based retrieval system, Cover-to-Cover.
+
+- [Using machine learning to cluster and classify math lectures](https://github.com/ExtraLime/math-lectures) by Will Morgan. Using machine learning to cluster and classify math lectures.
 
 - [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb) by Emile Badran. In this capstone project, I process tweets from the leading Democratic (Hillary Clinton) and Republican (Donald Trump) candidates and key 2016 US election hashtags. I apply Natural Language Processing and Network Analysis techniques to find the key topics, and the most influential actors that have guided the public debate.
 
-- [Cover to Cover: A (not so) Novel Approach to Book Reccommendations](https://www.thinkful.com/project-hunt/projects/cover-to-cover-a-not-so-novel-approach-to-book-reccommendations-4230) by Mark Espina. The saying goes "Don't Judge a book by it's cover" But Why? Anyone who shops at a local bookstore is definitely paying attention to the covers. And from personal experience, it is a key determinant on whether I end up purchasing a book. First, I will discuss the pros and cons of applying Convolutional Neural Nets to Image Classification, attempting to predict genre labels. In the second half, I will be exploring the application of feature extraction with similarity models as the basis for an Image Content-based retrieval system, Cover-to-Cover.
+
+ 
+ - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
+
+
 
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
