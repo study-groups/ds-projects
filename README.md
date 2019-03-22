@@ -31,8 +31,10 @@ Presentations about data science.
 
  
  - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
-
-
+ 
+ Assessing Gender Bias in Tech Job Descriptions
+ (https://github.com/tshaefrench/dataviz/tree/master/Final%20Capstone) by Tiffany French 
+After reading a report and infographic from the World Economic Forum about gender inequity in AI positions, I designed this project to use NLP techniques to assess for bias in job descriptions, that could ultimately lead to the gender inequity we see in hiring.  I used web scraping techniques, LDA and PyLDAviz, as well as supervised techniques to gain understanding and identify future areas of research.
 
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
