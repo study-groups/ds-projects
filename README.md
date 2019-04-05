@@ -16,6 +16,8 @@ Presentations about data science.
 
 - [Predicting churning teleco customers](https://github.com/ecbenezra/ThinkfulAssignments/tree/master/Midterm-Capstone-Report) by Eve Ben Ezra. Churn, or customer attrition, is the loss of customers. Churn is an area of interest for many industries, since it is often more expensive to bring in a new customer than to retain one. Using the popular Telco Customer Churn dataset from Kaggle, I hope to explore the data and determine which features might cause a customer to leave, and if a combination of features might make a customer "high risk" for leaving the company.
 
+- [Santander Bank Customer Transaction Prediction](https://github.com/etterfred/Thinkful/blob/master/Santander_Bank_supervised_learning_capstone.ipynb) by Fred Etter
+
 ## Unsupervised learning report
 
 - [Math lectures Part 1](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
