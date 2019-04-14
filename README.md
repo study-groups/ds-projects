@@ -35,5 +35,8 @@ Presentations about data science.
  - [Assessing Gender Bias in Tech Job Descriptions](https://github.com/tshaefrench/dataviz/tree/master/Final%20Capstone) by Tiffany French. 
 After reading a report and infographic from the World Economic Forum about gender inequity in AI positions, I designed this project to use NLP techniques to assess for bias in job descriptions, that could ultimately lead to the gender inequity we see in hiring.  I used web scraping techniques, LDA and PyLDAviz, as well as supervised techniques to gain understanding and identify future areas of research.
 
+- [PyTrader: Algorithmic Trading and Time Series Predictions Using LSTM](https://github.com/sohaibk321/quant_analysis_stocks) by Sohaib Khuram.
+After exploring the capabilitites of time series models through traditional ARIMA methods and LSTM neural networks, I decided to use these models to predict stock price direction and implement algoritmic trading strategies to see how accurate the results are. Using 4 separate strategies based on technical indicators, I was able to create an accurate model using LSTM that closely replicated trade signals around the original data. The strategies were then backtested on Quantopian to see how they performed on historical data.
+
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
