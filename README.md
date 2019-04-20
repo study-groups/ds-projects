@@ -18,6 +18,8 @@ Presentations about data science.
 
 - [Santander Bank Customer Transaction Prediction](https://github.com/etterfred/Thinkful/blob/master/Santander_Bank_supervised_learning_capstone.ipynb) by Fred Etter.  Bank Santander is trying to predict if a customer will make a specific transaction in the future.  Ananomyzed data was presented to Kaggle with 200,000 rows and 200 columns.  Multiple supervised learning algorithms were tested and evaluated to determine the best method and produce an accuracy metric.
 
+- [Safe Driver Prediction for Automobile Insurance](https://github.com/mu-mandayam/DataScience/blob/master/Supervised_Learning_Capstone/Sup_Learning_Capstone_Safe_Driver.ipynb) by Murali Mandayam. Correctly classifying a driver during underwriting is an important aspect in automobile insurance. All the supervised learning algorithms I used classify a driver as a 1, to indicate safe driver, or 0, to indicate that the drivers' information needs a review prior to issuing a policy.
+
 ## Unsupervised learning report
 
 - [Math lectures Part 1](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
