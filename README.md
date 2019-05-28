@@ -25,6 +25,9 @@ Presentations about data science.
 - [Predicting Divorce](https://github.com/SmellsLikeCake/predicting-divorce) by Helen Skinner. 
 Is it possible to predict whether an individual has ever been divorced based on their demographic traits? This supervised learning project tests 5 different algorithms to find out.
 
+- [Predicting Forest Fire Causes](https://github.com/mkfrancsis/Thinkful-Supervised-Learning-Capstone) by Matt Francsis.
+Human-caused fires account for between 43 and 59% of all wildfires in the western US. While wildfires can be beneficial to the ecosystem, they also pose serious threats to lives, property, and infrastructure. Predicting the cause of forest fires can assist investigators bring arsonists to justice and act as a catalyst for fire abatement strategies. This talk will discuss supervised learning modeling techniques for this large, imbalanced, multi-class, problem.
+
 ## Unsupervised learning report
 
 - [Math lectures Part 1](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
