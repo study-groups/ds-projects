@@ -1,7 +1,7 @@
-# Portfolio examples
+# Data Science Projects
 Presentations about data science.
 
-## Mid-term project
+## Supervised Learning Projects
 - [Detecting_Implicit_Bias_in_Traffic_Stops](https://github.com/maf5509/Detecting_Implicit_Bias_in_Traffic_Stops) by Mark Ferguson.
 
 - [Lemons: Predicting whether a Vehicle will be kicked back to the auction](https://github.com/ExtraLime/lemons) by Will Morgan. 
