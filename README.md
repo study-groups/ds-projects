@@ -53,5 +53,9 @@ After reading a report and infographic from the World Economic Forum about gende
 - [PyTrader: Algorithmic Trading and Time Series Predictions Using LSTM](https://github.com/sohaibk321/quant_analysis_stocks) by Sohaib Khuram.
 After exploring the capabilitites of time series models through traditional ARIMA methods and LSTM neural networks, I decided to use these models to predict stock price direction and implement algoritmic trading strategies to see how accurate the results are. Using 4 separate strategies based on technical indicators, I was able to create an accurate model using LSTM that closely replicated trade signals around the original data. The strategies were then backtested on Quantopian to see how they performed on historical data.
 
+[Unmasking the Face: Emotion detection using Machine Learning] (https://github.com/mariagilr/Final-Capstone) by Maria Gil Rodriguez.
+Humans are responsible for six basic emotions: happiness, anger, surprise, sadness, fear, and disgust. Creating a model that accurately classifies these emotions can be extremely useful in a variety of areas such as image processing, cybersecurity, robotics, psychological studies, virtual reality, etc. The main objective of this capstone is to create models to categorize faces based on the emotion shown in the expression into one of seven categories (the six basic emotions plus one category for neutral).
+
+
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
