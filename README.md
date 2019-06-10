@@ -53,5 +53,8 @@ After reading a report and infographic from the World Economic Forum about gende
 - [PyTrader: Algorithmic Trading and Time Series Predictions Using LSTM](https://github.com/sohaibk321/quant_analysis_stocks) by Sohaib Khuram.
 After exploring the capabilitites of time series models through traditional ARIMA methods and LSTM neural networks, I decided to use these models to predict stock price direction and implement algoritmic trading strategies to see how accurate the results are. Using 4 separate strategies based on technical indicators, I was able to create an accurate model using LSTM that closely replicated trade signals around the original data. The strategies were then backtested on Quantopian to see how they performed on historical data.
 
+- [Pothole and Road Surface Irregularity Detector](https://github.com/datafrick/Data-Science-Portfolio/tree/master/pothole_detector) by Saheed Tijani.
+The nature of the road surface a vehicle plies can have a huge impact on its wear and tear rate. It’s one of the major determinants in estimating the frequency of maintenance required to keep a vehicle in good condition. Human drivers are quite good at spotting these road irregularities and manoeuvring manned vehicles to avoid them. What if we train a machine to be able to do the same? In this project, I have built a binary classifier capable of detecting the presence of potholes and irregulaties on a road surface using Convolution Neural Network (CNN). I will be including localization as a regression model later on to create bounding boxes around the pothole locations.
+
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
