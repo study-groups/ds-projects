@@ -29,13 +29,15 @@ Presentations about data science.
 - [Using machine learning to cluster and classify math lectures](https://github.com/ExtraLime/math-lectures) by Will Morgan. Using machine learning to cluster and classify math lectures.
 
 - [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb) by Emile Badran. In this capstone project, I process tweets from the leading Democratic (Hillary Clinton) and Republican (Donald Trump) candidates and key 2016 US election hashtags. I apply Natural Language Processing and Network Analysis techniques to find the key topics, and the most influential actors that have guided the public debate.
-
-
  
  - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
  
  - [Assessing Gender Bias in Tech Job Descriptions](https://github.com/tshaefrench/dataviz/tree/master/Final%20Capstone) by Tiffany French. 
 After reading a report and infographic from the World Economic Forum about gender inequity in AI positions, I designed this project to use NLP techniques to assess for bias in job descriptions, that could ultimately lead to the gender inequity we see in hiring.  I used web scraping techniques, LDA and PyLDAviz, as well as supervised techniques to gain understanding and identify future areas of research.
+
+- [Predicting the stock market using weather data](https://github.com/etterfred/Thinkful/tree/master/Final_Capstone) by Fred Etter.  
+I read an article many years ago that the stock market performs better, on average, on sunny days in NYC.  Is this really true ?  I investigate this claim as well as many others, such as the impact of temperature on equities.  Also examined in this notebook are the affects of different days of the week for the S&P 500, 10 Yr Bond, gold, oil and bitcoin.  
+
 
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
