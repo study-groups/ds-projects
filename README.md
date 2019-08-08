@@ -53,5 +53,7 @@ After reading a report and infographic from the World Economic Forum about gende
 - [PyTrader: Algorithmic Trading and Time Series Predictions Using LSTM](https://github.com/sohaibk321/quant_analysis_stocks) by Sohaib Khuram.
 After exploring the capabilitites of time series models through traditional ARIMA methods and LSTM neural networks, I decided to use these models to predict stock price direction and implement algoritmic trading strategies to see how accurate the results are. Using 4 separate strategies based on technical indicators, I was able to create an accurate model using LSTM that closely replicated trade signals around the original data. The strategies were then backtested on Quantopian to see how they performed on historical data.
 
+- [Predicting Chicago Crime](https://github.com/paulbenschmidt/chicago-crime) by Paul Schmidt. Since the late 1800s, Chicago has been infamously known for its crime rates. Using crime and weather data from 2001 to the present, this project explores the patterns in frequency, type, and location of Chicago's crime for the purpose of informing the Chicago resident and equipping the Chicago Police Department with crime forecasting.
+
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
