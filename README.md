@@ -1,7 +1,7 @@
-# Portfolio examples
+# Data Science Projects
 Presentations about data science.
 
-## Mid-term project
+## Supervised Learning Projects
 - [Detecting_Implicit_Bias_in_Traffic_Stops](https://github.com/maf5509/Detecting_Implicit_Bias_in_Traffic_Stops) by Mark Ferguson.
 
 - [Lemons: Predicting whether a Vehicle will be kicked back to the auction](https://github.com/ExtraLime/lemons) by Will Morgan. 
@@ -22,7 +22,17 @@ Presentations about data science.
 
 - [Digit Recognizer](https://github.com/ISSablin/Digit_Recognizer.git) by Slava Sablin. A pretty straightforward approach to test some basic models and their combinations on a classic machine learning problem.  The goal is to correctly identify digits from a MNIST ("Modified National Institute of Standards and Technology") dataset of tens of thousands of handwritten images. 
 
+
 - [Heart Disease Prediction](https://github.com/valfehr/Heart-Disease-Prediction) by Valentin Fehr. A look into the UCI heart disease datset. Predicting heart disease using supervised learning with a focus on feature selection using SHAP and real life cost of acquiring said features.
+
+- [Predicting Divorce](https://github.com/SmellsLikeCake/predicting-divorce) by Helen Skinner. 
+Is it possible to predict whether an individual has ever been divorced based on their demographic traits? This supervised learning project tests 5 different algorithms to find out.
+
+- [Predicting Forest Fire Causes](https://github.com/mkfrancsis/Thinkful-Supervised-Learning-Capstone) by Matt Francsis.
+Human-caused fires account for between 43 and 59% of all wildfires in the western US. While wildfires can be beneficial to the ecosystem, they also pose serious threats to lives, property, and infrastructure. Predicting the cause of forest fires can assist investigators bring arsonists to justice and act as a catalyst for fire abatement strategies. This talk will discuss supervised learning modeling techniques for this large, imbalanced, multi-class, problem.
+=======
+- [Safe Driver Predictions for Automobile Insurance](https://github.com/mu-mandayam/DataScience/tree/master/Supervised_Learning_Capstone) by Murali Mandayam.  Data science has risen to prominence in the last decade due to its capabilities in predictive algorithms. While many business verticals value the benefits of predictive algorithms using Data Science, insurance companies place a lot of importance as data science and predictive algorithms helps them keeps premium low. Data is always been at the core of what insurance companies do analyzing data such as claims, what kind of a vehicle one drives, how many miles do they drive per day among other. Actuaries, the data scientists at insurance companies as they were called a decade ago, used to collate data from different sources and analyze the premium and claim data to identify fraudulent transactions that helped them keep the premiums low. This Capstone project for Supervised Learning uses data from Kaggle (https://www.kaggle.com/mu202199/safe-driver-prediction). Our goal is to predict a binary outcome of 1, to indicate safe driver, or 0, to indicate that the drivers' information needs a review before issuing a policy.
+
 
 ## Unsupervised learning report
 
