@@ -18,7 +18,6 @@ Presentations about data science.
 
 - [Santander Bank Customer Transaction Prediction](https://github.com/etterfred/Thinkful/blob/master/Santander_Bank_supervised_learning_capstone.ipynb) by Fred Etter.  Bank Santander is trying to predict if a customer will make a specific transaction in the future.  Ananomyzed data was presented to Kaggle with 200,000 rows and 200 columns.  Multiple supervised learning algorithms were tested and evaluated to determine the best method and produce an accuracy metric.
 
-<<<<<<< df59dff9452638a671e7b8c85ee6bb649a419830
 - [Safe Driver Prediction for Automobile Insurance](https://github.com/mu-mandayam/DataScience/blob/master/Supervised_Learning_Capstone/Sup_Learning_Capstone_Safe_Driver.ipynb) by Murali Mandayam. Correctly classifying a driver during underwriting is an important aspect in automobile insurance. All the supervised learning algorithms I used classify a driver as a 1, to indicate safe driver, or 0, to indicate that the drivers' information needs a review prior to issuing a policy.
 
 - [Digit Recognizer](https://github.com/ISSablin/Digit_Recognizer.git) by Slava Sablin. A pretty straightforward approach to test some basic models and their combinations on a classic machine learning problem.  The goal is to correctly identify digits from a MNIST ("Modified National Institute of Standards and Technology") dataset of tens of thousands of handwritten images. 
