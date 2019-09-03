@@ -58,11 +58,15 @@ After reading a report and infographic from the World Economic Forum about gende
 After exploring the capabilitites of time series models through traditional ARIMA methods and LSTM neural networks, I decided to use these models to predict stock price direction and implement algoritmic trading strategies to see how accurate the results are. Using 4 separate strategies based on technical indicators, I was able to create an accurate model using LSTM that closely replicated trade signals around the original data. The strategies were then backtested on Quantopian to see how they performed on historical data.
 
 
+- [Pothole and Road Surface Irregularity Detector](https://github.com/datafrick/Data-Science-Portfolio/tree/master/pothole_detector) by Saheed Tijani.
+The nature of the road surface a vehicle plies can have a huge impact on its wear and tear rate. It’s one of the major determinants in estimating the frequency of maintenance required to keep a vehicle in good condition. Human drivers are quite good at spotting these road irregularities and manoeuvring manned vehicles to avoid them. What if we train a machine to be able to do the same? In this project, I have built a binary classifier capable of detecting the presence of potholes and irregulaties on a road surface using Convolution Neural Network (CNN). I will be including localization as a regression model later on to create bounding boxes around the pothole locations.
+
 - [Unmasking the Face: Emotion detection using Machine Learning](https://github.com/mariagilr/Final-Capstone) by Maria Gil Rodriguez.
 Humans are responsible for six basic emotions: happiness, anger, surprise, sadness, fear, and disgust. Creating a model that accurately classifies these emotions can be extremely useful in a variety of areas such as image processing, cybersecurity, robotics, psychological studies, virtual reality, etc. The main objective of this capstone is to create models to categorize faces based on the emotion shown in the expression into one of seven categories (the six basic emotions plus one category for neutral).
 
 - [The Twelve Pack: Classifying Beer by Images of Label](https://github.com/kknoebel17/Thinkful---Data-Science/blob/master/Final_Capstone/The_Twelve_Pack_ReadMe.md) by Kyle Knoebel. 
 The Twelve Pack is a concept program that aims to classify beers from pictures of the label using Tensorflow/Keras. Images were collected from twelve beers using an iPhone 8 Plus, and the images were fed into a Keras model using the Flow from Dataframe method of the Keras ImageDataGenerator. The final objective of this program is to classify beers from images of the label, and connect to an API to provides more information about the beer such as ingredients, flavor profile, and locations where the beer is sold. 
+
 
 
 ## Coursework repositories
