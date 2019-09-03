@@ -22,6 +22,9 @@ Presentations about data science.
 
 - [Digit Recognizer](https://github.com/ISSablin/Digit_Recognizer.git) by Slava Sablin. A pretty straightforward approach to test some basic models and their combinations on a classic machine learning problem.  The goal is to correctly identify digits from a MNIST ("Modified National Institute of Standards and Technology") dataset of tens of thousands of handwritten images. 
 
+
+- [Heart Disease Prediction](https://github.com/valfehr/Heart-Disease-Prediction) by Valentin Fehr. A look into the UCI heart disease datset. Predicting heart disease using supervised learning with a focus on feature selection using SHAP and real life cost of acquiring said features.
+
 - [Predicting Divorce](https://github.com/SmellsLikeCake/predicting-divorce) by Helen Skinner. 
 Is it possible to predict whether an individual has ever been divorced based on their demographic traits? This supervised learning project tests 5 different algorithms to find out.
 
