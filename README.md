@@ -22,11 +22,15 @@ Presentations about data science.
 
 - [Digit Recognizer](https://github.com/ISSablin/Digit_Recognizer.git) by Slava Sablin. A pretty straightforward approach to test some basic models and their combinations on a classic machine learning problem.  The goal is to correctly identify digits from a MNIST ("Modified National Institute of Standards and Technology") dataset of tens of thousands of handwritten images. 
 
+
+- [Heart Disease Prediction](https://github.com/valfehr/Heart-Disease-Prediction) by Valentin Fehr. A look into the UCI heart disease datset. Predicting heart disease using supervised learning with a focus on feature selection using SHAP and real life cost of acquiring said features.
+
 - [Predicting Divorce](https://github.com/SmellsLikeCake/predicting-divorce) by Helen Skinner. 
 Is it possible to predict whether an individual has ever been divorced based on their demographic traits? This supervised learning project tests 5 different algorithms to find out.
 
 - [Predicting Forest Fire Causes](https://github.com/mkfrancsis/Thinkful-Supervised-Learning-Capstone) by Matt Francsis.
 Human-caused fires account for between 43 and 59% of all wildfires in the western US. While wildfires can be beneficial to the ecosystem, they also pose serious threats to lives, property, and infrastructure. Predicting the cause of forest fires can assist investigators bring arsonists to justice and act as a catalyst for fire abatement strategies. This talk will discuss supervised learning modeling techniques for this large, imbalanced, multi-class, problem.
+
 
 ## Unsupervised learning report
 
@@ -53,8 +57,17 @@ After reading a report and infographic from the World Economic Forum about gende
 - [PyTrader: Algorithmic Trading and Time Series Predictions Using LSTM](https://github.com/sohaibk321/quant_analysis_stocks) by Sohaib Khuram.
 After exploring the capabilitites of time series models through traditional ARIMA methods and LSTM neural networks, I decided to use these models to predict stock price direction and implement algoritmic trading strategies to see how accurate the results are. Using 4 separate strategies based on technical indicators, I was able to create an accurate model using LSTM that closely replicated trade signals around the original data. The strategies were then backtested on Quantopian to see how they performed on historical data.
 
+
 - [Pothole and Road Surface Irregularity Detector](https://github.com/datafrick/Data-Science-Portfolio/tree/master/pothole_detector) by Saheed Tijani.
 The nature of the road surface a vehicle plies can have a huge impact on its wear and tear rate. It’s one of the major determinants in estimating the frequency of maintenance required to keep a vehicle in good condition. Human drivers are quite good at spotting these road irregularities and manoeuvring manned vehicles to avoid them. What if we train a machine to be able to do the same? In this project, I have built a binary classifier capable of detecting the presence of potholes and irregulaties on a road surface using Convolution Neural Network (CNN). I will be including localization as a regression model later on to create bounding boxes around the pothole locations.
+
+- [Unmasking the Face: Emotion detection using Machine Learning](https://github.com/mariagilr/Final-Capstone) by Maria Gil Rodriguez.
+Humans are responsible for six basic emotions: happiness, anger, surprise, sadness, fear, and disgust. Creating a model that accurately classifies these emotions can be extremely useful in a variety of areas such as image processing, cybersecurity, robotics, psychological studies, virtual reality, etc. The main objective of this capstone is to create models to categorize faces based on the emotion shown in the expression into one of seven categories (the six basic emotions plus one category for neutral).
+
+- [The Twelve Pack: Classifying Beer by Images of Label](https://github.com/kknoebel17/Thinkful---Data-Science/blob/master/Final_Capstone/The_Twelve_Pack_ReadMe.md) by Kyle Knoebel. 
+The Twelve Pack is a concept program that aims to classify beers from pictures of the label using Tensorflow/Keras. Images were collected from twelve beers using an iPhone 8 Plus, and the images were fed into a Keras model using the Flow from Dataframe method of the Keras ImageDataGenerator. The final objective of this program is to classify beers from images of the label, and connect to an API to provides more information about the beer such as ingredients, flavor profile, and locations where the beer is sold. 
+
+
 
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
