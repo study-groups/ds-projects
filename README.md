@@ -57,5 +57,8 @@ After reading a report and infographic from the World Economic Forum about gende
 - [PyTrader: Algorithmic Trading and Time Series Predictions Using LSTM](https://github.com/sohaibk321/quant_analysis_stocks) by Sohaib Khuram.
 After exploring the capabilitites of time series models through traditional ARIMA methods and LSTM neural networks, I decided to use these models to predict stock price direction and implement algoritmic trading strategies to see how accurate the results are. Using 4 separate strategies based on technical indicators, I was able to create an accurate model using LSTM that closely replicated trade signals around the original data. The strategies were then backtested on Quantopian to see how they performed on historical data.
 
+- [The Twelve Pack: Classifying Beer by Images of Label](https://github.com/kknoebel17/Thinkful---Data-Science/blob/master/Final_Capstone/The_Twelve_Pack_ReadMe.md) by Kyle Knoebel. 
+The Twelve Pack is a concept program that aims to classify beers from pictures of the label using Tensorflow/Keras. Images were collected from twelve beers using an iPhone 8 Plus, and the images were fed into a Keras model using the Flow from Dataframe method of the Keras ImageDataGenerator. The final objective of this program is to classify beers from images of the label, and connect to an API to provides more information about the beer such as ingredients, flavor profile, and locations where the beer is sold. 
+
 ## Coursework repositories
 - Please fork this repo, add link and make a pull request to add your repo here.
