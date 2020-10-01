@@ -1,5 +1,5 @@
-# Data Science Projects
-Presentations about data science.
+# Data Science Projects:-
+Presentations about data science:
 
 ## Supervised Learning Projects
 - [Detecting_Implicit_Bias_in_Traffic_Stops](https://github.com/maf5509/Detecting_Implicit_Bias_in_Traffic_Stops) by Mark Ferguson.
@@ -32,11 +32,11 @@ Is it possible to predict whether an individual has ever been divorced based on 
 Human-caused fires account for between 43 and 59% of all wildfires in the western US. While wildfires can be beneficial to the ecosystem, they also pose serious threats to lives, property, and infrastructure. Predicting the cause of forest fires can assist investigators bring arsonists to justice and act as a catalyst for fire abatement strategies. This talk will discuss supervised learning modeling techniques for this large, imbalanced, multi-class, problem.
 
 
-## Unsupervised learning report
+## Unsupervised learning report:-
 
 - [Math lectures Part 1](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
 
-## Final capstone
+## Final capstone:-
 
 
 - [Predicting Life Expectancy by Country](https://github.com/trent129/Final-Thinkful-Capstone) by Trent Casillas. Using linear regression, mixed effect models, and clustering to predict and determine important factors for a country's life expectancy average. 
